@@ -35,7 +35,7 @@ You have two options:
 - Clone this repo or copy the contents of main.py into a local main.py. Being able to clone repos and commit changes from the terminal will be an expected knowledge over time 💪
 
 ## LEARNING
-Read through this [wiki](https://github.com/Bridge-The-Gap-Series/PSK-00/wiki/Learning) for foundational knowledge.
+Read through this [wiki](https://github.com/Bridge-The-Gap-Series/PSK-00/wiki/Hello-World) for foundational knowledge.
 
 ## EXERCISE
 Submit code that outputs the following:
